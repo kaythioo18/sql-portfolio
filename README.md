@@ -15,6 +15,8 @@ This project analyzes sales data using SQL.
 - Inserted Sample Data
 - Used GROUP BY AND SUM
 - Identified total sales per customer
+### Sample SQL
+[View SQL File](sales_analysis/queries.sql)
 ### Screenshot:
 ![Result](sales_analysis/result.png)
 ![Result](sales_analysis/result1.png)
