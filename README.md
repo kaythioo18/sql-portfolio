@@ -16,9 +16,10 @@ This project analyzes sales data using SQL.
 - Used GROUP BY AND SUM
 - Identified total sales per customer
 ### Screenshot:
-sales_analysis/result.png
-sales_analysis/result1.png
-sales_analysis/result2.png
+![Result](sales_analysis/result.png)
+![Result](sales_analysis/result1.png)
+![Result](sales_analysis/result2.png)
+
 
 
   
